@@ -4,7 +4,7 @@
 1. Header with sticky nav bar:
    Logo: MyPortfolio | Links: About | Projects | Contact
 2. Hero section:
-   - Large title: "Hello, I'm John Doe"
+   - Large title: "Hello, I'm Hijam"
    - Subtitle: "Front-End Developer | UI/UX Designer"
    - Button: "Hire Me" linking to contact section
 3. About section:
@@ -19,6 +19,6 @@
 5. Contact section:
    - Form with Name, Email, Message fields
    - Submit button: "Send"
-6. Footer: "&copy; 2025 John Doe. All rights reserved."
+6. Footer: "&copy; 2026 Hijam. All rights reserved."
 7. Responsive design, modern clean UI, hover effects, button transitions
 
